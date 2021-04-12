@@ -60,9 +60,13 @@ height: auto;
 
 }
 
+.container_video{
+  margin: auto;
+}
 
-
-
+article{
+  align-content: center;
+}
 
 
 
